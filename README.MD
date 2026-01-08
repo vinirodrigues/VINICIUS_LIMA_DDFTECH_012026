@@ -15,7 +15,8 @@ Breve explicação do objetivo baseado no case.
 Passos para rodar notebooks, pipelines e app.
 
 ## Conteúdos e Evidências
-Links para prints, dashboards, pipelines e app.
+https://ibb.co/ZprbRBZK
+https://ibb.co/xK9bwzC3
 
 ## Análises
 
