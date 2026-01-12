@@ -12,7 +12,7 @@ O objetivo deste projeto é desenvolver uma solução de dados ponta a ponta a p
 - data/
 
 ## Como Executar
-Passos para rodar notebooks, pipelines e app.
+Passos para rodar notebooks, pipelines e app no README de cada pagina .
 
 ## Conteúdos e Evidências
 https://ibb.co/ZprbRBZK
