@@ -1,7 +1,7 @@
-# <Vinicius Rodrigues Lima> – Case Técnico Dadosfera
+# <Vinicius Rodrigues Lima> – Case Técnico 
 
 ## Descrição do Projeto
-Breve explicação do objetivo baseado no case.
+O objetivo deste projeto é desenvolver uma solução de dados ponta a ponta a partir do dataset público da Olist, contemplando as etapas de ingestão, tratamento, qualidade, modelagem analítica e visualização. A proposta é estruturar uma arquitetura em camadas, com pipelines de processamento em Python, garantindo dados limpos, padronizados e prontos para análise, além de gerar insights por meio de análises exploratórias e dashboards. Todo o projeto foi concebido para ser facilmente adaptável a ambientes analíticos em nuvem e plataformas de dados, como a Dadosfera.
 
 ## Estrutura do Repositório
 - notebooks/
